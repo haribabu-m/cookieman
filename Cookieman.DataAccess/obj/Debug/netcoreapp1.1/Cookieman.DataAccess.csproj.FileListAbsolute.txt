@@ -1,0 +1,7 @@
+D:\Sandbox\CookieMan\Cookieman.DataAccess\bin\Debug\netcoreapp1.1\Cookieman.DataAccess.deps.json
+D:\Sandbox\CookieMan\Cookieman.DataAccess\bin\Debug\netcoreapp1.1\Cookieman.DataAccess.dll
+D:\Sandbox\CookieMan\Cookieman.DataAccess\obj\Debug\netcoreapp1.1\Cookieman.DataAccess.csprojResolveAssemblyReference.cache
+D:\Sandbox\CookieMan\Cookieman.DataAccess\obj\Debug\netcoreapp1.1\Cookieman.DataAccess.AssemblyInfo.cs
+D:\Sandbox\CookieMan\Cookieman.DataAccess\bin\Debug\netcoreapp1.1\Cookieman.DataAccess.pdb
+D:\Sandbox\CookieMan\Cookieman.DataAccess\obj\Debug\netcoreapp1.1\Cookieman.DataAccess.dll
+D:\Sandbox\CookieMan\Cookieman.DataAccess\obj\Debug\netcoreapp1.1\Cookieman.DataAccess.pdb

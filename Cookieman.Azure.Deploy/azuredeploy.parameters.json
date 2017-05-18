@@ -1,0 +1,21 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "cookiemanAdminLogin": {
+      "value": "hariadmin"
+    },
+    "cookieman-dbAdminLogin": {
+      "value": "hariadmin"
+    },
+    "cookieman-dbName": {
+      "value": "cookie-db"
+    },
+    "cookiemanAdminLoginPassword": {
+      "value": "Welcome123"
+    },
+    "cookieman-dbAdminLoginPassword": {
+      "value": "Welcome123"
+    }
+  }
+}

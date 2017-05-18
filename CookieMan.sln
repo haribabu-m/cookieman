@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.26403.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookieWeb", "CookieWeb\CookieWeb.csproj", "{D6CE9DC4-21FC-45CD-B01C-4F68A35EA3C4}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Cookieman.Data", "Cookieman.Data\Cookieman.Data.sqlproj", "{761972E5-A65F-42E9-A3E8-17EB458A25D3}"
+EndProject
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "Cookieman.Azure.Deploy", "Cookieman.Azure.Deploy\Cookieman.Azure.Deploy.deployproj", "{53A7CB12-628B-47CE-B145-5F5F8256B5A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cookieman.DataAccess", "Cookieman.DataAccess\Cookieman.DataAccess.csproj", "{56BADA7B-8DAC-4744-8AB5-921A676CE955}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,20 @@ Global
 		{D6CE9DC4-21FC-45CD-B01C-4F68A35EA3C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6CE9DC4-21FC-45CD-B01C-4F68A35EA3C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6CE9DC4-21FC-45CD-B01C-4F68A35EA3C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{761972E5-A65F-42E9-A3E8-17EB458A25D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{761972E5-A65F-42E9-A3E8-17EB458A25D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{761972E5-A65F-42E9-A3E8-17EB458A25D3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{761972E5-A65F-42E9-A3E8-17EB458A25D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{761972E5-A65F-42E9-A3E8-17EB458A25D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{761972E5-A65F-42E9-A3E8-17EB458A25D3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{53A7CB12-628B-47CE-B145-5F5F8256B5A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53A7CB12-628B-47CE-B145-5F5F8256B5A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53A7CB12-628B-47CE-B145-5F5F8256B5A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53A7CB12-628B-47CE-B145-5F5F8256B5A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56BADA7B-8DAC-4744-8AB5-921A676CE955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56BADA7B-8DAC-4744-8AB5-921A676CE955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56BADA7B-8DAC-4744-8AB5-921A676CE955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56BADA7B-8DAC-4744-8AB5-921A676CE955}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

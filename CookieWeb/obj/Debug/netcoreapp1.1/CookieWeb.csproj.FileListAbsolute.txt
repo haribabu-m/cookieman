@@ -6,3 +6,4 @@ D:\Sandbox\CookieMan\CookieWeb\bin\Debug\netcoreapp1.1\CookieWeb.pdb
 D:\Sandbox\CookieMan\CookieWeb\obj\Debug\netcoreapp1.1\CookieWeb.AssemblyInfo.cs
 D:\Sandbox\CookieMan\CookieWeb\obj\Debug\netcoreapp1.1\CookieWeb.dll
 D:\Sandbox\CookieMan\CookieWeb\obj\Debug\netcoreapp1.1\CookieWeb.pdb
+D:\Sandbox\CookieMan\CookieWeb\obj\Debug\netcoreapp1.1\CookieWeb.csprojResolveAssemblyReference.cache
