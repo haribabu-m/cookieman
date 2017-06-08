@@ -17,7 +17,7 @@ namespace CookieWeb.Controllers
         }
         public IActionResult Index()
         {
-            string region = _appsettings.Region;
+            string region = string.IsNullOrEmpty( _appsettings.Region) ? "Empty" :_appsettings.Region ;
 
             ViewData.Add("Region", region);
             ViewBag.RegionMine = region;
